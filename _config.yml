@@ -1,7 +1,7 @@
 #remote_theme: pages-themes/minimal@v0.2.0
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Chan Wen Le
+title: Wen Le C.
 description: Aspiring data enthusiast with a background in economics and finance, I’m dedicated to transforming complex data into actionable insights. On a continuous learning journey, I’m excited to dive into automation and advanced analytics to optimize data processes and uncover new opportunities. Follow along as I explore the intersection of finance and data analytics, leveraging my expertise to drive meaningful, data-driven solutions.
 show_downloads: False
 theme: jekyll-theme-minimal
