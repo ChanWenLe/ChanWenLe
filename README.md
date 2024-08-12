@@ -12,8 +12,8 @@
 - Program/File format Used: R, SPSS
 
   
-### Sentiment Analysis
+### Natural Language Processing
 
-1. Natural Language Processing: Amazon Fashion Review Text Analysis - [Read More](https://kfkyyian1.github.io/linetableaudashboard/)
+1. Sentiment Analysis: Amazon Fashion Review Text Analysis - [Read More](https://kfkyyian1.github.io/linetableaudashboard/)
 - A dashboard of marketing communication pushes on the brand's profile. The objective is to provide the marketing team with insights into message performance, follower engagement, and trends.
 - Program/File format Used: Python
