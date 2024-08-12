@@ -15,5 +15,5 @@
 ### Natural Language Processing
 
 1. Sentiment Analysis: Amazon Fashion Review Text Analysis - [Read More](https://kfkyyian1.github.io/linetableaudashboard/)
-- A dashboard of marketing communication pushes on the brand's profile. The objective is to provide the marketing team with insights into message performance, follower engagement, and trends.
+- Analyse the sentiments expressed in customer reviews within the fashion category. The objective is to provide the sellers and platform with valueble insights into customer experiences, enabling them to address concerns and enhance overall satisfaction effectively.
 - Program/File format Used: Python
