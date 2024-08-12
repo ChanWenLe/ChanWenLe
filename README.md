@@ -10,7 +10,8 @@
 4. Hotel Star  - [Read More](https://kfkyyian1.github.io/pewresearchcenter_springsurvey2022/)
 - Research on attitudes of Singaporeans towards China and the United States
 - Program/File format Used: R, SPSS
-- 
+
+  
 ### Sentiment Analysis
 
 1. Natural Language Processing: Amazon Fashion Review Text Analysis - [Read More](https://kfkyyian1.github.io/linetableaudashboard/)
