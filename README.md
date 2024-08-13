@@ -14,6 +14,6 @@
   
 ### Natural Language Processing
 
-1. Sentiment Analysis: Amazon Fashion Review Text Analysis - [Read More]([https://kfkyyian1.github.io/linetableaudashboard/](https://chanwenle.github.io/sentiment_analysis_on_amazon_reviews/)
+1. Sentiment Analysis: Amazon Fashion Review Text Analysis - [Read More](https://chanwenle.github.io/sentiment_analysis_on_amazon_reviews/)
 - Analyse the sentiments expressed in customer reviews within the fashion category. The objective is to provide the sellers and platform with valueble insights into customer experiences, enabling them to address concerns and enhance overall satisfaction effectively.
 - Program/File format Used: Python
