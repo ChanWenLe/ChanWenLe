@@ -1,3 +1,12 @@
+
+### Machine Learning 
+
+1. Customer Base Expansion & Retention - [Read More](https://chanwenle.github.io/Applied-Project/)
+- Analyzing key factors influence the likelihood of converting casual riders into annual subscribers.
+- Identifying casual riders with a high likelihood of conversion and developing strategies to retain those at risk of churning.
+- Program/File format Used: Python
+
+  
 ### Data Wrangling, Analytics & Visualisation
 
 1. Tableau Dashboard: Plant DTS Co.’s Sales Performance Analysis  - [Read More](https://chanwenle.github.io/Plant-Co.Sales-Performance/)
